@@ -1,0 +1,12 @@
+Follow wayfinding panels walking outdoors
+Search for a shop in a shopping street
+Browse products in a supermarket
+Search for a location in a building
+Driving to the mall
+Highway watch
+Train watch
+The camera IDs are as follows:
+Head-mounted camera
+Mobile Phone charging
+Hand-held camcorder
+HD camera repairing
